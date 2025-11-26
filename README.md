@@ -18,7 +18,7 @@ Ce projet illustre l'application de **techniques de Machine Learning supervisé*
 ## Technologies Utilisées
 - Python : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - Jupyter Notebook pour le développement et la documentation  
-- Nbviewer pour le partage interactif
+
 
 ## Résultat
 Le notebook fournit un **modèle de régression complet**, avec visualisations et analyses, permettant de prédire les ventes et d’identifier les variables les plus influentes.
